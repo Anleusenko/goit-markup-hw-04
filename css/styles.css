@@ -110,6 +110,8 @@ img {
         rgba(46, 47, 66, 0.70)
     ),
     url('../images/hero/hero-background.jpg');
+    background-size: cover;
+    max-width: 1440px;
 }
 .hero-title {
     color: #FFF;
