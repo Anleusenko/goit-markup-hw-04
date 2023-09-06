@@ -402,7 +402,7 @@ background-color: #404bbf;
     width: 264px;
 }
 
-.footer-container {
+.footer-section .container {
     display: flex;
     align-items: baseline
 }
