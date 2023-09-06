@@ -293,16 +293,13 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.social-list-team-icon {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
-    flex-shrink: 0;
     border-radius: 50%;
-    background: #4D5AE5;
+}
+.social-team-link:hover
+.social-team-link:focus {
+background-color: #404bbf;  
+}
+
 }
 
 /* Our Portfolio */
