@@ -439,3 +439,6 @@ background-color: #404bbf;
 .main-social-link:focus {
     background-color: #31d0aa;
 }
+.main-social-icon {
+    fill: #f4f4fd;
+}
